@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "owner": "My Brand",
+  "status": "unconfigured",
+  "vaultRoot": "starter",
+  "canonical": {
+    "company": "company.md",
+    "voice": "voice.md",
+    "look": "look.md"
+  },
+  "writingSamples": [],
+  "assetManifest": "assets-manifest.json",
+  "missing": [
+    "Connect your Company Vault before generation"
+  ],
+  "websites": [],
+  "outputPlatforms": [
+    "Threads",
+    "Newsletter"
+  ]
+}
